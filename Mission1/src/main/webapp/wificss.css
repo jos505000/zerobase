@@ -1,0 +1,47 @@
+.location {
+  margin-bottom: 20px;
+}
+
+.location p {
+  display: inline-block;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.location input {
+  width: 200px;
+}
+
+.location button {
+  margin-left: 10px;
+}
+
+.wifi-info {
+  margin-top: 50px;
+}
+
+.wifi-info h2 {
+  margin-bottom: 20px;
+}
+
+.wifi-info ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.wifi-info li {
+  margin-bottom: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
